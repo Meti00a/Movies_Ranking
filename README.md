@@ -2,7 +2,7 @@
 A dataset based on tv shows and movies based on a Netflix dataset. 
 -Created on Jupyter Notebook.
 
-##dataset
+## dataset
 **This dataset represents listings of movies and tv shows on Netflix**
 sources from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
