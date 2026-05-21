@@ -1,17 +1,22 @@
-KK1/Netflix(film och tv show)analys
+# KK1/Netflix(film och tv show)analys
+
 A dataset based on tv shows and movies based on a Netflix dataset.
 
 Created on Jupyter Notebook.
 
-dataset
-This dataset represents listings of movies and tv shows on Netflix sources from Kaggle: <https://www.kaggle.com/datasets/shivamb/netflix-shows>
+## dataset
 
-How to run on Notebook:
+**This dataset represents listings of movies and tv shows on Netflix**
+sources from Kaggle: <https://www.kaggle.com/datasets/shivamb/netflix-shows>
+
+## How to run on Notebook
+
 Step 1: Download,unpack and extract the ZIP file that is provided from the kaggle source.
 
 Step 2: Clone repo.
 
-Step 3: Create a virtual enviorment: python -m venv .venv
+Step 3: Create a virtual enviorment:
+python -m venv .venv
 
 Step 4: Activate the venv:
 
